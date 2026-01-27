@@ -246,13 +246,19 @@ Modify vector parameters
 ![请添加图片描述](https://i-blog.csdnimg.cn/direct/4cca7e4ea63042b5b746ed1b093ba625.png)
 Results Display（The parent is white, but the black vector parameters are retained）
 ![请添加图片描述](https://i-blog.csdnimg.cn/direct/1f154cb0a65747bca4a9e4a0dfe5e617.png)
- 4. Split the model by material
+ 2. Split the model by material
  ![请添加图片描述](https://i-blog.csdnimg.cn/direct/14d892d997aa422c88a9b678176b5af3.png)
 Default split（Select the model and click the button. The split model will be saved in the file. After selecting all and placing them in the scene, they can remain unchanged）
 ![请添加图片描述](https://i-blog.csdnimg.cn/direct/c089ddea3ae7436192f4ab1158093a83.png)
 Center split option(The axis positions of all the models after splitting are centered)
 ![请添加图片描述](https://i-blog.csdnimg.cn/direct/99ea6b467f02496f90ea80e419f4c6c1.png)
-
+ 5. Change the selected material to the default material
+ Interface Display
+ ![请添加图片描述](https://i-blog.csdnimg.cn/direct/89ca3c23d75e43a0ab3435851bc9126c.png)
+Before modification (the material of the model in the scene is different from the default material)
+![请添加图片描述](https://i-blog.csdnimg.cn/direct/ddc5c64e7f324edc821266dbd87a009f.png)
+After modification (model material in the scene restored to its original state)
+![请添加图片描述](https://i-blog.csdnimg.cn/direct/c03e9e6411194aaa8b68255e60aa6479.png)
 
 
 

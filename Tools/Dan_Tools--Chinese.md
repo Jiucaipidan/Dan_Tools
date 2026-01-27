@@ -4,9 +4,13 @@
 ---
 
 # 前言
-在虚幻引擎工作过程中，进行项目时经常会进行重复性功能制作，或者项目越来越大不知道怎么优化。为了提升工作效率和快速优化项目，Dan--Tools开发编辑器工具应需求而生。有了它可以快速进行模型，贴图，关卡，图层，标签等功能操作。非常适合做地编，数字孪生等工作。**使用前请启动官方插件:GeometryScripting**   
+**使用前请启动官方插件:GeometryScripting**  在虚幻引擎工作过程中，进行项目时经常会进行重复性功能制作，或者项目越来越大不知道怎么优化。为了提升工作效率和快速优化项目，Dan--Tools开发编辑器工具应需求而生。有了它可以快速进行模型，贴图，关卡，图层，标签等功能操作。非常适合做地编，数字孪生等工作。 
+
 下载链接:[立即下载](https://www.fab.com/zh-cn/listings/d3e344e3-eae0-425d-a38d-4dfa3adc886b)
+
 ---
+
+
 
 
 
@@ -167,6 +171,13 @@ Dan--Tools 是一款可以在**虚幻引擎5.3**及以上版本中使用的编�
 ![请添加图片描述](https://i-blog.csdnimg.cn/direct/5ae1d20b8ed14dcbba5792d6a65ec438.png)
 按材质拆分模型轴居中（拆分后的所有模型轴都居中了）
 ![请添加图片描述](https://i-blog.csdnimg.cn/direct/7e77c8aaa7c542ce9f51c9f1fd80741b.png)
+5.选择模型更改为默认材质
+界面展示
+![请添加图片描述](https://i-blog.csdnimg.cn/direct/40247824cc7f461dab60cc58fac5eb8d.png)
+修改前（场景中模型的材质发生了变化与默认材质不一样）
+![请添加图片描述](https://i-blog.csdnimg.cn/direct/2b46ff055b1d4eff8d71593ef18a2fb2.png)
+修改后（选择模型点击按钮后可以发现场景中模型材质被还原了）
+![请添加图片描述](https://i-blog.csdnimg.cn/direct/3462ccf0ed774b89b4dada92a3d84332.png)
 
 
 
